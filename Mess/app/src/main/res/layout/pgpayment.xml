@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/head"
+        android:text="Payment"
+        android:textSize="50dp"
+        android:fontFamily="@font/lobster_regular"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="100dp"
+        />
+
+    <EditText
+        android:id="@+id/amount"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="574dp"
+        android:background="@drawable/whitetext"
+        android:drawableStart="@drawable/cash"
+        android:elevation="10dp"
+        android:ems="10"
+        android:hint="   Amount"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/upiid"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="505dp"
+        android:background="@drawable/whitetext"
+        android:drawableStart="@drawable/id"
+        android:elevation="10dp"
+        android:ems="10"
+        android:hint="   UPI ID"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="432dp"
+        android:background="@drawable/whitetext"
+        android:drawableStart="@drawable/userpay"
+        android:elevation="10dp"
+        android:ems="10"
+        android:hint="    Name"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/paybtn"
+        android:layout_width="216dp"
+        android:layout_height="76dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="105dp"
+        android:layout_marginBottom="282dp"
+        android:background="@drawable/paybutton"
+        android:drawableEnd="@drawable/rightarrow"
+        android:elevation="10dp"
+        android:text="Proceed to pay"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

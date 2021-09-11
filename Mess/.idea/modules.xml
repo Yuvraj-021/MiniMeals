@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-Mess.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-Mess.iml" group="Mess" />
+      <module fileurl="file://$PROJECT_DIR$/Mess.iml" filepath="$PROJECT_DIR$/Mess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mess.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mess.app.iml" />
+    </modules>
+  </component>
+</project>

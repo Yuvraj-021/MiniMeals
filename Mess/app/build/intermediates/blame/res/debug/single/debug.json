@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitetext.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\whitetext.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_orderitems.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\orderitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addm.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\addm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_menuview.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\menuview.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile_bk.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\profile_bk.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemsfoodrr.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\itemsfoodrr.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_log.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\log.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mail.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logbtn.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\logbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_userpay.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\userpay.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_requestfood.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\requestfood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pencil.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_pgreciept.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\pgreciept.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_about.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_mobile.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemsfood.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\itemsfood.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_address.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_address.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rupee.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\rupee.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rightarrow.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\rightarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back_to_home_button.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\back_to_home_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fooditems.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\fooditems.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_android.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_android.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\anim_slideup.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\anim\\slideup.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_key.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\font_fonts.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\font\\fonts.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\font_lobster_regular.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\font\\lobster_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_name.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile_back_button.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\profile_back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_alt.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\alt.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_messname.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\messname.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_food.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_ablayout.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\ablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_resetpasspg.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\resetpasspg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_accounts.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\fragment_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_minimealslogo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\minimealslogo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chef.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\chef.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_menuupdate.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\menuupdate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_pgpayment.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\pgpayment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_profile.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\content_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cash.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\cash.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_foodreq.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\foodreq.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\menu_header_menu.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\menu\\header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_backe.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\backe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_paybutton.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\paybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_messaddress.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\messaddress.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\raw_video.mp4.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\raw\\video.mp4"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_profile_activity1.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\menu\\menu_profile_activity1.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_ordertime.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\ordertime.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_rec.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\rec.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\font_merriweather.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\font\\merriweather.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_id.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_editr.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\editr.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_pastorderitems.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\pastorderitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_altimg.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\altimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meal.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\meal.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logout.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_aboutuspg.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\aboutuspg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_phone.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ownername.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ownername.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_pgsplashscreen.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\pgsplashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pastorders.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\pastorders.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginpg.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\loginpg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_pgorder.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\pgorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\font_mmfont.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\font\\mmfont.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_registerp.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\registerp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_addmenuimg.jpeg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\addmenuimg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\font_pacifico_regular.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\font\\pacifico_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_deletem.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\deletem.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_upback.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\upback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_updatepg.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\updatepg.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_dob.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_dob.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splashbg.jpg.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\splashbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_menuviewor.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\menuviewor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_email.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_description.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\description.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\layout_addmn.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\layout\\addmn.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_wb_sunny.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\drawable-v24\\ic_wb_sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\Mess\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

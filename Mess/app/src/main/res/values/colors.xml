@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#DB0D0D</color>
+  <color name="colorPrimaryDark">#020303</color>
+  <color name="colorAccent">#EF0D23</color>
+  <color name="price">#999999</color>
+  <color name="foodname">#222222</color>
+
+  <!--colors for profile-->
+  <color name="profilePrimaryDark">#FF3B30</color>
+  <color name="profileAccentColor">#F7F7F7</color>
+  <color name="whiteTextColor">#fff</color>
+  <color name="profileBackground">#fff</color>
+  <color name="blackTextColor">#000</color>
+  <color name="profileEditTextColor">#707070</color>
+</resources>

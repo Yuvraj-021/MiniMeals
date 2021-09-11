@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_Orders">
+
+    <fragment
+        android:id="@+id/navigation_Add_Menu"
+        android:name="com.example.mess.ui.home.HomeFragment"
+        android:label="@string/title_Add_Menu"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_Orders"
+        android:name="com.example.mess.ui.dashboard.DashboardFragment"
+        android:label="@string/title_Orders"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+    android:id="@+id/navigation_Past_Orders"
+    android:name="com.example.mess.ui.notifications.NotificationsFragment"
+    android:label="@string/title_Past_Orders"
+    tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_Accounts"
+        android:name="com.example.mess.ui.Accounts.AccountFragment"
+        android:label="@string/title_Accounts"
+        tools:layout="@layout/fragment_notifications" />
+
+</navigation>

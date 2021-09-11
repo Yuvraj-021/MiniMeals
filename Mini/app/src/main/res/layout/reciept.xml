@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:textAlignment="gravity">
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:background="@color/colorRed_900"
+        android:text="Cart"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:fontFamily="@font/merriweather"
+        android:textColor="#FFFFFF"
+        />
+
+    <View
+        style="@style/proifleDetailsView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="446dp">
+
+        <TextView
+            android:id="@+id/t7"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="209dp"
+            android:layout_marginBottom="380dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Order Details"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="254dp"
+            android:layout_marginBottom="240dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Description"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/rprice"
+            android:layout_width="158dp"
+            android:layout_height="38dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="22dp"
+            android:layout_marginBottom="142dp"
+            android:textAlignment="viewStart"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/descr_r"
+            android:layout_width="186dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="-2dp"
+            android:layout_marginBottom="280dp"
+            android:fontFamily="@font/merriweather"
+            android:text="     Description"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/rminus"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="14dp"
+            android:layout_marginBottom="187dp"
+            android:layout_toStartOf="@+id/rcount"
+            android:text="-" />
+
+        <TextView
+            android:id="@+id/rfnm"
+            android:layout_width="184dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rmsnm"
+            android:layout_alignParentEnd="true"
+
+            android:layout_marginTop="49dp"
+            android:layout_marginEnd="-2dp"
+
+            android:fontFamily="@font/merriweather"
+            android:text="     food name"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="98dp"
+            android:layout_marginEnd="260dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Mess name"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/rcount"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="74dp"
+            android:layout_marginBottom="188dp"
+            android:background="#19D627"
+            android:text="1"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/rplus"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="13dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="189dp"
+
+            android:text="+" />
+
+        <TextView
+            android:id="@+id/t4"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="236dp"
+            android:layout_marginBottom="194dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Quantity"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="259dp"
+            android:layout_marginBottom="279dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Food name"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/t6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="18dp"
+            android:layout_marginBottom="109dp"
+            android:fontFamily="@font/merriweather"
+            android:text="__________"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/rmsnm"
+            android:layout_width="188dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="100dp"
+            android:layout_marginEnd="-1dp"
+            android:fontFamily="@font/merriweather"
+            android:text="     Mess name"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="88dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="316dp"
+            android:layout_marginBottom="143dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Price"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/subtotal"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="308dp"
+            android:layout_marginBottom="42dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Subtotal"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/rupees"
+            android:layout_width="10dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="169dp"
+            android:layout_marginBottom="40dp"
+            android:text="₹"
+            android:textAlignment="textEnd"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/subprice"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="17dp"
+            android:layout_marginBottom="41dp"
+            android:text="000"
+            android:textAlignment="textStart"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+    <View style="@style/proifleDetailsView" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center">
+
+        <TextView
+            android:id="@+id/t8"
+            android:layout_width="264dp"
+            android:layout_height="56dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="142dp"
+            android:layout_marginBottom="272dp"
+            android:fontFamily="@font/merriweather"
+            android:text="Payment Method"
+            android:textSize="24sp" />
+
+        <RadioGroup
+            android:id="@+id/radiogroup"
+            android:layout_width="211dp"
+            android:layout_height="122dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="196dp"
+            android:layout_marginBottom="129dp">
+
+            <RadioButton
+                android:id="@+id/radioButton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:text="PAY USING UPI" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:text="CASH ON DELIVERY" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/rorder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="239dp"
+            android:layout_marginEnd="21dp"
+            android:background="@drawable/placeorderbtn"
+            android:text="Place Order"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+</LinearLayout>

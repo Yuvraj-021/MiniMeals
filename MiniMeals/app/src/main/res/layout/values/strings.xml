@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mess2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Orders</string>
+    <string name="title_account">Account</string>
+</resources>

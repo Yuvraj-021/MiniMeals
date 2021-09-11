@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+    <menu tools:context="com.learn2crack.recyclerviewsearch.MainActivity" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Search" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="ifRoom|collapseActionView" android:icon="@drawable/searchimg" android:id="@+id/search"/>
+
+</menu>

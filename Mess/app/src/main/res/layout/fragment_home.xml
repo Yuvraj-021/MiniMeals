@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_google_signin_btn_text_dark_pressed"
+    android:orientation="vertical">
+
+    <ScrollView android:layout_marginTop="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="650dp"
+        android:id="@+id/scrollView">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/addmenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+        <LinearLayout
+            android:id="@+id/al"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/addmenu_img"
+                android:layout_width="match_parent"
+                android:layout_height="222dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/addm" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+
+                <!-- <ImageView
+                     android:id="@+id/add"
+                     android:layout_width="341dp"
+                     android:layout_height="167dp"
+                     android:scaleType="fitXY"
+                     android:src="@drawable/addm"
+                     app:srcCompat="@android:color/white"/>-->
+
+                <TextView
+                    android:id="@+id/atv"
+                    android:layout_width="341dp"
+                    android:layout_height="22dp"
+                    android:layout_marginBottom="8dp"
+                    android:fontFamily="@font/merriweather"
+                    android:text="ADD MENU"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- COLUMN 2  -->
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/viewmenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+        <LinearLayout
+            android:id="@+id/vl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/viewmenu_img"
+                android:layout_width="match_parent"
+                android:layout_height="247dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/addmenuimg" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+
+                <!-- <ImageView
+                     android:id="@+id/add"
+                     android:layout_width="341dp"
+                     android:layout_height="167dp"
+                     android:scaleType="fitXY"
+                     android:src="@drawable/addm"
+                     app:srcCompat="@android:color/white"/>-->
+
+                <TextView
+                    android:id="@+id/vtv"
+                    android:layout_width="341dp"
+                    android:layout_height="22dp"
+                    android:layout_marginBottom="8dp"
+                    android:fontFamily="@font/merriweather"
+                    android:text="VIEW MENU"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- COLUMN 2  -->
+    </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/reqfood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp">
+            <LinearLayout
+                android:id="@+id/rl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/reqfood_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="222dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/requestfood" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="16dp">
+
+
+                    <!-- <ImageView
+                         android:id="@+id/add"
+                         android:layout_width="341dp"
+                         android:layout_height="167dp"
+                         android:scaleType="fitXY"
+                         android:src="@drawable/addm"
+                         app:srcCompat="@android:color/white"/>-->
+
+                    <TextView
+                        android:id="@+id/rtv"
+                        android:layout_width="341dp"
+                        android:layout_height="22dp"
+                        android:layout_marginBottom="8dp"
+                        android:fontFamily="@font/merriweather"
+                        android:text="REQUEST FOOD ITEMS"
+                        android:textColor="#000"
+                        android:textSize="18sp" />
+                </LinearLayout>
+            </LinearLayout>
+            <!-- COLUMN 2  -->
+        </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/fooditems"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp">
+        <LinearLayout
+            android:id="@+id/fl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/fooditems_img"
+                android:layout_width="match_parent"
+                android:layout_height="222dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/fooditems" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+
+                <!-- <ImageView
+                     android:id="@+id/add"
+                     android:layout_width="341dp"
+                     android:layout_height="167dp"
+                     android:scaleType="fitXY"
+                     android:src="@drawable/addm"
+                     app:srcCompat="@android:color/white"/>-->
+
+                <TextView
+                    android:id="@+id/ftv"
+                    android:layout_width="341dp"
+                    android:layout_height="22dp"
+                    android:layout_marginBottom="8dp"
+                    android:fontFamily="@font/merriweather"
+                    android:text="FOOD ITEMS"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- COLUMN 2  -->
+    </androidx.cardview.widget.CardView>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
